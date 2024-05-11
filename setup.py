@@ -14,7 +14,7 @@ project_urls = {
 
 setup(
     name='kwcache',
-    version='0.0.1',
+    version='0.0.2',
     author='Sidq',
     author_email='abba.dmytro@gmail.com',
     description='Package for function caching',

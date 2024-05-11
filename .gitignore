@@ -1,2 +1,4 @@
 dist/
 kwcache.egg-info/
+*.pyc
+*.pyx

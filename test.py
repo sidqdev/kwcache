@@ -1,6 +1,3 @@
-## kwcache - make cache easy
-
-```python3
 import asyncio
 from kwcache import kwcache
 
@@ -26,6 +23,4 @@ for i in range(15):
     asyncio.run(atest(2, "2", test=2))
     asyncio.run(atest(3, "3", test=3))
 
-
-```
 
